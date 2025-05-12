@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eggames/static/css/main.444b3002.css",
+    "main.js": "/eggames/static/js/main.cc7bd2bf.js",
+    "static/js/453.f6c57927.chunk.js": "/eggames/static/js/453.f6c57927.chunk.js",
+    "index.html": "/eggames/index.html",
+    "main.444b3002.css.map": "/eggames/static/css/main.444b3002.css.map",
+    "main.cc7bd2bf.js.map": "/eggames/static/js/main.cc7bd2bf.js.map",
+    "453.f6c57927.chunk.js.map": "/eggames/static/js/453.f6c57927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.444b3002.css",
+    "static/js/main.cc7bd2bf.js"
+  ]
+}
